@@ -7,4 +7,4 @@ Inlcudes:
 - Prettier
 - ESLint
 - TypeScript
-- Svelte Heroicons
+- [Iconify](https://iconify.design/docs/icon-components/svelte/)
